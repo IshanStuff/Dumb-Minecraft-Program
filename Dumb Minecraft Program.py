@@ -5,7 +5,7 @@ from playsound import playsound
 import time
 #module for locating images on screen
 import pyautogui
-#this is a basic program pls don't @ me, I suck at coding
+#this is a basic program pls don't shame me, I suck at coding
 #copy paste the path of the folder where you put the mp3 files,like the one below
 path="D:\\Insults\\"
 files=os.listdir(path)
